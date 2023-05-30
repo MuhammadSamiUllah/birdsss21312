@@ -1,0 +1,4 @@
+<link rel="icon" type="image/png" href="images/favicon.ico"/>
+  
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
